@@ -1,0 +1,5 @@
+CREATE TABLE sum_sal_deptwise (
+  DEPTNO NUMBER(2), 
+  SUM_SAL NUMBER(5)
+)
+  ;
